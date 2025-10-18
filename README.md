@@ -16,3 +16,4 @@ Small, production-ish FastAPI service with user registration & JWT login.
 cp .env.example .env
 docker compose up --build
 # Open http://localhost:8000/docs
+# Open http://localhost:8000/docs
